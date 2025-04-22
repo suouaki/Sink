@@ -17,13 +17,13 @@ export default eventHandler(async (event) => {
       { role: 'user', content: 'https://www.cloudflare.com/' },
       { role: 'assistant', content: '{"slug": "cloudflare"}' },
 
-      { role: 'user', content: 'https://github.com/nuxt-hub/' },
+      { role: 'user', content: 'https://github.com/suouaki' },
       { role: 'assistant', content: '{"slug": "nuxt-hub"}' },
 
       { role: 'user', content: 'https://sink.cool/' },
       { role: 'assistant', content: '{"slug": "sink-cool"}' },
 
-      { role: 'user', content: 'https://github.com/ccbikai/sink' },
+      { role: 'user', content: 'https://github.com/suouaki' },
       { role: 'assistant', content: '{"slug": "sink"}' },
 
       {
